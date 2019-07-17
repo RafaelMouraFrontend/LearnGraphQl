@@ -1,5 +1,5 @@
 <h1 align="center">
-  Missões SpaceX:space_invader:
+  Missões SpaceX :rocket:
   <br>
   <br>
 </h1>
@@ -60,7 +60,7 @@ http://localhost:3000/
 ```
 
 Ou se preferir entre no link online:
-https://starwarsdesafiob2w.netlify.com/
+https://polar-beach-19345.herokuapp.com/
 
 ## Built With
 * Html
@@ -68,25 +68,9 @@ https://starwarsdesafiob2w.netlify.com/
 * JS
 * [React](hhttps://reactjs.org/) 
 * [Styled Components](https://www.styled-components.com/) 
-* [React Router](https://www.npmjs.com/package/react-router) 
+* [GraphQl](https://www.npmjs.com/package/react-router) 
 
 
 ## Autor
 
 * **Rafael Moura** - [Linkedin](https://www.linkedin.com/in/rafaelmouradev/)
-
-## Considerações finais
-
-A proposta foi apresetar os meus conhecimentos como dev Frontend Junior, foi interessante também como forma de reforçar e aprender alguns conceitos como hooks, busquei criar uma arquitetura que seja facilmente escalavel.
-
-Com a proposta de Hooks busquei centralizar o fluxo unidirecional, centralizando o estado de todos os componentes em um componente pai, para que possiveis bugs fossem facilmente localizados.
-
-Foi muito legal fazer esse teste, espero que gostem! :wink:
-
-OBS: Pode se futuramente ampliar e escalar amplicando as rotas e criando categorias para: Naves, especies, personagens... 
-
-
-
-
-
-
