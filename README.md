@@ -38,13 +38,12 @@ Esse tópico é para caso queira rodar o game na sua maquina e ter acesso ao cor
 Após a instação do node e github vamos precisar rodar alguns comandos no seu terminal de comando:
 
 ```
-git clone https://github.com/RafaelMouraFrontend/TesteB2w.git
+git clone https://github.com/RafaelMouraFrontend/LearnGraphQl.git
 ```
 
 Pronto agora com esse comando acima você clonou a pasta e tem todo acesso ao código do projeto, agora vamos rodar no terminal mais alguns comandos para fazer o game funcionar na sua maquina:
 ```
 cd LearnGraphQl
-
 ```
 ```
 npm install
@@ -56,7 +55,6 @@ npm start
 Acesse no seu navegador de preferencia
 ```
 http://localhost:3000/
-
 ```
 
 Ou se preferir entre no link online:
@@ -68,7 +66,7 @@ https://polar-beach-19345.herokuapp.com/
 * JS
 * [React](hhttps://reactjs.org/) 
 * [Styled Components](https://www.styled-components.com/) 
-* [GraphQl](https://www.npmjs.com/package/react-router) 
+* [GraphQl](https://graphql.org/) 
 
 
 ## Autor
