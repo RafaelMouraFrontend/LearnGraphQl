@@ -49,7 +49,18 @@ cd LearnGraphQl
 npm install
 ```
 ```
-npm start
+cd client
+```
+```
+npm install
+```
+Voltar uma Pasta e executar
+
+```
+cd ..
+```
+```
+npm run dev
 ```
 
 Acesse no seu navegador de preferencia
